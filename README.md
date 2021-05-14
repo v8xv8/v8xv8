@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @v8xv8
+- 👀 I’m interested in Python, HTML, CSS, Java, javascript and C++
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any beginner friendly project that would teach me the ropes
+- 📫 How to reach me? Easily, here!
